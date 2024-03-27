@@ -30,7 +30,7 @@
 <h3 align="left">Support:</h3>
 </div>
 <div style="display: flex; justify-content: center; gap: 1rem;">
-<p><a href="https://www.buymeacoffee.com/ajakhar085j"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ajakhar085j" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/ajakhar085j"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ajakhar085j" /></a></p>
 <p><a href="https://paypal.me/ajak4406"> <img align="left" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="50" width="210" alt="ajakhar085j" /></a></p><br><br>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
