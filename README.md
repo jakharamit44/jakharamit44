@@ -20,7 +20,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ajakhar085j"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ajakhar085j" /></a></p><br><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakharamit44&show_icons=true&locale=en&layout=compact" alt="jakharamit44" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakharamit44&show_icons=true&locale=en&layout=compact" alt="jakharamit44" /></p><br><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jakharamit44&show_icons=true&locale=en" alt="jakharamit44" /></p>
 
