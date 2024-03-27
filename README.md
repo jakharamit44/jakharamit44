@@ -6,7 +6,7 @@
 </div>
 <div style="display: flex; justify-content: center;align-items: center; gap: 1rem;">
  <a href="https://github.com/jakharamit44" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:https://t.me/ajak4405"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "https://t.me/ajak4405"><img src="https://img.shields.io/badge/-Telegram-%23333?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 <p > <img src="https://komarev.com/ghpvc/?username=jakharamit44&label=Profile%20views&color=0e75b6&style=flat" alt="jakharamit44" /> </p>
 </div>
 
