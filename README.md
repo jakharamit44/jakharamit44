@@ -1,56 +1,170 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,1f2428,24292e,2b3137&height=220&section=header&text=Amit%20Jakhar&fontSize=80&fontAlignY=35&desc=Architecting%20Scalable%20Solutions&descSize=20&descAlignY=60&animation=fadeIn&fontColor=5BCDEC" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,23,28,30&height=250&section=header&text=Amit%20Jakhar&fontSize=70&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=25&descAlignY=55&animation=fadeIn" width="100%" />
 
-  <br />
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FFB3&center=true&vCenter=true&random=false&width=600&lines=Building+Digital+Solutions;Open+Source+Enthusiast;Always+Learning+%26+Growing;Turning+Coffee+into+Code)](https://git.io/typing-svg)
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=5BCDEC&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast;Open+Source+Contributor;Always+Learning" alt="Typing SVG" />
-  </a>
-
-  <div align="center">
-    <a href="https://github.com/jakharamit44">
-      <img src="https://img.shields.io/github/followers/jakharamit44?label=Followers&style=for-the-badge&color=24292e&labelColor=0d1117" />
-    </a>
-    <a href="https://linkedin.com/in/jakharamit44">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
-    </a>
-    <a href="https://t.me/ajak4405">
-      <img src="https://img.shields.io/badge/Telegram-Chat-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" />
-    </a>
-  </div>
+  <div>
+    <a href="https://github.com/jakharamit44">
+      <img src="https://img.shields.io/github/followers/jakharamit44?label=Follow&style=for-the-badge&color=9645f4" />
+    </a>
+    <img src="https://img.shields.io/badge/Updated-2025--05--02-green?style=for-the-badge&color=33a1f2" />
+    <img src="https://komarev.com/ghpvc/?username=jakharamit44&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
+  </div>
 </div>
 
-<br />
+<br>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="60%" valign="top">
-      <h2>👋 About Me</h2>
-      <p>
-        I am a passionate Full Stack Developer focused on building scalable cloud applications. I love solving complex architectural problems and optimizing performance.
-      </p>
-      <br />
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding" />
-    </td>
-    <td width="5%"></td>
-    <td width="35%" valign="top">
-      <h2>💻 My Core</h2>
-      
-```javascript
-const dev = {
-  name: "Amit",
-  role: "Full Stack",
-  code: [
-    "Javascript",
-    "Python",
-    "Java"
-  ],
-  tools: [
-    "Docker",
-    "K8s",
-    "AWS"
-  ],
-  coffee: true
-};
-</td>
-</tr></table><br /><h2 align="center">🚀 Technology Stack</h2><div align="center">CategorySkillsFrontend<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact,nextjs,vue,redux,tailwind,mui,bootstrap,html,css" />Backend<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dnodejs,express,python,django,fastapi,java,spring" />Database<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dmongodb,postgres,mysql,redis,firebase" />DevOps<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Daws,docker,kubernetes,nginx,linux,git,githubactions" /></div><br /><h2 align="center">⚡ GitHub Statistics</h2><div align="center"><table border="0"><tr><td><img src="https://www.google.com/search?q=https://github-readme-stats-sigma-five.vercel.app/api%3Fusername%3Djakharamit44%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue%26bg_color%3D0D1117%26cache_seconds%3D1800" height="165" alt="Stats" /></td><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=jakharamit44&theme=tokyonight&hide_border=true&background=0D1117" height="165" alt="Streak" /></td></tr></table><br /><img src="https://www.google.com/search?q=https://github-readme-stats-sigma-five.vercel.app/api/top-langs/%3Fusername%3Djakharamit44%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117%26langs_count%3D8%26cache_seconds%3D1800" width="85%" alt="Languages" /></div><br /><div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=jakharamit44&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Activity" /></div><br /><div align="center"><table border="0"><tr><td><a href="https://www.buymeacoffee.com/ajakhar085j"><img src="https://www.google.com/search?q=https://img.buymeacoffee.com/button-api/%3Ftext%3DSupport my work&emoji=⚡&slug=ajakhar085j&button_colour=5BCDEC&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" height="40" /></a></td><td>&nbsp;&nbsp;&nbsp;</td><td><a href="https://dev.to/jakharamit44"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Read_My_Blog-0A0A0A%3Fstyle%3Dfor-the-badge%26logo%3Ddevdotto%26logoColor%3Dwhite%26height%3D40" height="40" /></a></td></tr></table><br /><img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26customColorList%3D0d1117,1f2428,24292e,2b3137%26height%3D100%26section%3Dfooter%26animation%3DfadeIn" width="100%" alt="Footer" /></div>
+<div>
+  <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="280" />
+  
+  ## 💫 About Me
+  
+  ```typescript
+  const amit = {
+    pronouns: "He" | "Him",
+    code: ["JavaScript", "TypeScript", "Python", "Java"],
+    askMeAbout: ["Web Dev", "Tech", "Cloud", "Architecture"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js", "Vue"],
+            css: ["Tailwind", "Bootstrap", "Material UI"]
+        },
+        backEnd: {
+            js: ["Node", "Express"],
+            python: ["Django", "FastAPI"]
+        },
+        devOps: ["AWS", "Docker", "Kubernetes", "Nginx"],
+        databases: ["MongoDB", "PostgreSQL", "Redis"],
+        tools: ["Git", "GitHub Actions", "Postman"]
+    },
+    currentFocus: "Building Scalable Cloud Applications",
+    funFact: "I debug with console.log and refuse to admit it!"
+  };
+  ```
+</div>
+
+<br clear="all">
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <h3>Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,typescript,javascript,tailwind,sass,materialui" />
+  
+  <h3>Backend</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi,java,graphql,prisma" />
+  
+  <h3>DevOps & Cloud</h3>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,github,vercel,netlify,cloudflare" />
+  
+  <h3>Databases & Tools</h3>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase,git,vscode,postman" />
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jakharamit44&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" height="170px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jakharamit44&theme=tokyonight&hide_border=true&background=0D1117" height="170px" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jakharamit44&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" width="98%" />
+</div>
+
+## 📈 Weekly Coding Stats
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jakharamit44&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="400px" />
+  
+  <br>
+  
+  <div style="display: inline-block; text-align: left; background-color: rgba(13, 17, 23, 0.7); padding: 15px; border-radius: 10px; margin: 15px 0; width: 400px;">
+    <div style="display: flex; justify-content: space-between;">
+      <span>JavaScript</span>
+      <span>65.52%</span>
+    </div>
+    <div style="width: 100%; background-color: #2d333b; height: 10px; border-radius: 5px; margin: 5px 0;">
+      <div style="width: 65.52%; background: linear-gradient(90deg, #9645f4, #5BCDEC); height: 10px; border-radius: 5px;"></div>
+    </div>
+
+    <div style="display: flex; justify-content: space-between;">
+      <span>Python</span>
+      <span>20.31%</span>
+    </div>
+    <div style="width: 100%; background-color: #2d333b; height: 10px; border-radius: 5px; margin: 5px 0;">
+      <div style="width: 20.31%; background: linear-gradient(90deg, #9645f4, #5BCDEC); height: 10px; border-radius: 5px;"></div>
+    </div>
+
+    <div style="display: flex; justify-content: space-between;">
+      <span>TypeScript</span>
+      <span>10.12%</span>
+    </div>
+    <div style="width: 100%; background-color: #2d333b; height: 10px; border-radius: 5px; margin: 5px 0;">
+      <div style="width: 10.12%; background: linear-gradient(90deg, #9645f4, #5BCDEC); height: 10px; border-radius: 5px;"></div>
+    </div>
+
+    <div style="display: flex; justify-content: space-between;">
+      <span>Other</span>
+      <span>04.05%</span>
+    </div>
+    <div style="width: 100%; background-color: #2d333b; height: 10px; border-radius: 5px; margin: 5px 0;">
+      <div style="width: 4.05%; background: linear-gradient(90deg, #9645f4, #5BCDEC); height: 10px; border-radius: 5px;"></div>
+    </div>
+  </div>
+</div>
+
+## 🎵 Now Playing
+
+<div align="center">
+  <a href="https://open.spotify.com/user/jakharamit44">
+    <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" width="450px" />
+  </a>
+</div>
+
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://github.com/jakharamit44">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/jakharamit44">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://t.me/ajak4405">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://dev.to/jakharamit44">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+  </a>
+</div>
+
+## 💰 Support Me
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/ajakhar085j">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=ajakhar085j&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" height="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://paypal.me/ajak4406">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="50" />
+  </a>
+</div>
+
+## 📝 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="600px" />
+</div>
+
+## 😂 Developer Meme
+<div align="center">
+  <img src='https://randommeme-five.vercel.app/' style="height: 350px; border-radius: 10px; border: 2px solid #5BCDEC" />
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,23,28,30&height=120&section=footer&animation=fadeIn" width="100%" />
+</div>
