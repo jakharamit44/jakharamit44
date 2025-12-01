@@ -12,8 +12,8 @@
   <a href="https://t.me/ajak4405">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.buymeacoffee.com/ajakhar085j">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
   </a>
 </div>
 
@@ -37,9 +37,9 @@
       <img src="https://komarev.com/ghpvc/?username=jakharamit44&color=7aa2f7&style=flat-square&label=Profile+Views" />
     </td>
     <td width="45%" valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=jakharamit44&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=jakharamit44&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" width="100%" />
       <br />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jakharamit44&theme=tokyonight&hide_border=true&background=00000000" width="100%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jakharamit44&theme=tokyonight&hide_border=true&background=0D1117" width="100%" />
     </td>
   </tr>
 </table>
@@ -80,31 +80,13 @@
 
 <h2 align="center">📊 Coding Habits</h2>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jakharamit44&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=FFFFFF&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jakharamit44&bg_color=0D1117&color=7aa2f7&line=7aa2f7&point=FFFFFF&area=true&hide_border=true" width="100%" />
   <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakharamit44&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&langs_count=8" width="50%" />
-</div>
-
-<br />
-
-<h2 align="center">🚀 Top Projects</h2>
-<div align="center">
-  <a href="https://github.com/jakharamit44/upi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jakharamit44&repo=upi&theme=tokyonight&hide_border=true&bg_color=1a1b26" height="150" />
-  </a>
-  <a href="https://github.com/jakharamit44">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jakharamit44&repo=YOUR_REPO_NAME_HERE&theme=tokyonight&hide_border=true&bg_color=1a1b26" height="150" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakharamit44&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" width="60%" />
 </div>
 
 <br />
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f0c29,302b63,24243e&height=100&section=footer&animation=fadeIn" width="100%" />
-  
-  <br />
-  
-  <a href="https://www.buymeacoffee.com/ajakhar085j">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Fuel%20my%20code&emoji=☕&slug=ajakhar085j&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" height="40" />
-  </a>
 </div>
