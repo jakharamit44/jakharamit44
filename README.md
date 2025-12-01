@@ -36,8 +36,9 @@
       <br /><br />
       <img src="https://komarev.com/ghpvc/?username=jakharamit44&color=7aa2f7&style=flat-square&label=Profile+Views" />
     </td>
+
     <td width="45%" valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=jakharamit44&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" width="100%" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jakharamit44&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" width="100%" />
       <br />
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=jakharamit44&theme=tokyonight&hide_border=true&background=0D1117" width="100%" />
     </td>
@@ -82,7 +83,7 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jakharamit44&bg_color=0D1117&color=7aa2f7&line=7aa2f7&point=FFFFFF&area=true&hide_border=true" width="100%" />
   <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakharamit44&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" width="60%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jakharamit44&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" width="60%" />
 </div>
 
 <br />
