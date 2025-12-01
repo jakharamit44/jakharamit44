@@ -35,6 +35,7 @@
     <td width="5%"></td>
     <td width="35%" valign="top">
       <h2>💻 My Core</h2>
+      
 ```javascript
 const dev = {
   name: "Amit",
@@ -52,24 +53,4 @@ const dev = {
   coffee: true
 };
 </td>
-</tr> </table>
-
-<br />
-
-<h2 align="center">🚀 Technology Stack</h2> <div align="center"> <table border="0"> <tr> <td align="center" width="100"> <b>Frontend</b> </td> <td> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact,nextjs,vue,redux,tailwind,materialui,bootstrap,html,css" /> </td> </tr> <tr> <td align="center" width="100"> <b>Backend</b> </td> <td> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dnodejs,express,python,django,fastapi,java,spring" /> </td> </tr> <tr> <td align="center" width="100"> <b>Database</b> </td> <td> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dmongodb,postgres,mysql,redis,firebase" /> </td> </tr> <tr> <td align="center" width="100"> <b>DevOps</b> </td> <td> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Daws,docker,kubernetes,nginx,linux,git,githubactions" /> </td> </tr> </table> </div>
-
-<br />
-
-<h2 align="center">⚡ GitHub Statistics</h2> <div align="center"> <table border="0"> <tr> <td> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jakharamit44&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" height="165" alt="Stats" /> </td> <td> <img src="https://github-readme-streak-stats.herokuapp.com/?user=jakharamit44&theme=tokyonight&hide_border=true&background=0D1117" height="165" alt="Streak" /> </td> </tr> </table> <br /> <img src="https://www.google.com/search?q=https://github-readme-stats-sigma-five.vercel.app/api/top-langs/%3Fusername%3Djakharamit44%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117%26langs_count%3D8" width="85%" alt="Languages" /> </div>
-
-<br />
-
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=jakharamit44&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Activity" /> </div>
-
-<br />
-
-<div align="center"> <table border="0"> <tr> <td> <a href="https://www.buymeacoffee.com/ajakhar085j"> <img src="https://www.google.com/search?q=https://img.buymeacoffee.com/button-api/%3Ftext%3DSupport my work&emoji=⚡&slug=ajakhar085j&button_colour=5BCDEC&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" height="40" /> </a> </td> <td>&nbsp;&nbsp;&nbsp;</td> <td> <a href="https://dev.to/jakharamit44"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Read_My_Blog-0A0A0A%3Fstyle%3Dfor-the-badge%26logo%3Ddevdotto%26logoColor%3Dwhite%26height%3D40" height="40" /> </a> </td> </tr> </table>
-
-<br />
-
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26customColorList%3D0d1117,1f2428,24292e,2b3137%26height%3D100%26section%3Dfooter%26animation%3DfadeIn" width="100%" alt="Footer" /> </div>
+</tr></table><br /><h2 align="center">🚀 Technology Stack</h2><div align="center">CategorySkillsFrontend<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact,nextjs,vue,redux,tailwind,mui,bootstrap,html,css" />Backend<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dnodejs,express,python,django,fastapi,java,spring" />Database<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dmongodb,postgres,mysql,redis,firebase" />DevOps<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Daws,docker,kubernetes,nginx,linux,git,githubactions" /></div><br /><h2 align="center">⚡ GitHub Statistics</h2><div align="center"><table border="0"><tr><td><img src="https://www.google.com/search?q=https://github-readme-stats-sigma-five.vercel.app/api%3Fusername%3Djakharamit44%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue%26bg_color%3D0D1117%26cache_seconds%3D1800" height="165" alt="Stats" /></td><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=jakharamit44&theme=tokyonight&hide_border=true&background=0D1117" height="165" alt="Streak" /></td></tr></table><br /><img src="https://www.google.com/search?q=https://github-readme-stats-sigma-five.vercel.app/api/top-langs/%3Fusername%3Djakharamit44%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117%26langs_count%3D8%26cache_seconds%3D1800" width="85%" alt="Languages" /></div><br /><div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=jakharamit44&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Activity" /></div><br /><div align="center"><table border="0"><tr><td><a href="https://www.buymeacoffee.com/ajakhar085j"><img src="https://www.google.com/search?q=https://img.buymeacoffee.com/button-api/%3Ftext%3DSupport my work&emoji=⚡&slug=ajakhar085j&button_colour=5BCDEC&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" height="40" /></a></td><td>&nbsp;&nbsp;&nbsp;</td><td><a href="https://dev.to/jakharamit44"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Read_My_Blog-0A0A0A%3Fstyle%3Dfor-the-badge%26logo%3Ddevdotto%26logoColor%3Dwhite%26height%3D40" height="40" /></a></td></tr></table><br /><img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26customColorList%3D0d1117,1f2428,24292e,2b3137%26height%3D100%26section%3Dfooter%26animation%3DfadeIn" width="100%" alt="Footer" /></div>
