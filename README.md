@@ -36,7 +36,6 @@
       <br /><br />
       <img src="https://komarev.com/ghpvc/?username=jakharamit44&color=7aa2f7&style=flat-square&label=Profile+Views" />
     </td>
-
     <td width="45%" valign="top" align="center">
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jakharamit44&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" width="100%" />
       <br />
