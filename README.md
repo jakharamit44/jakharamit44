@@ -38,7 +38,6 @@
        <img src="https://img.shields.io/badge/Learning-AI_Integration-blue?style=flat-square&color=121212&labelColor=333" />
        <img src="https://img.shields.io/badge/Available-For_Hire-success?style=flat-square&color=2ea44f&labelColor=333" />
     </td>
-    
     <td width="45%" valign="top" align="center">
       <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=00FFB3&vCenter=true&multiline=true&width=400&height=80&lines=console.log('Hello World');await+buildAmazingApp();" />
