@@ -1,25 +1,28 @@
+<!-- Header Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f0c29,302b63,24243e&height=220&section=header&text=Amit%20Jakhar&fontSize=80&fontAlignY=35&desc=Full%20Stack%20%7C%20Cloud%20Architect%20%7C%20DevOps&descSize=20&descAlignY=60&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f0c29,302b63,24243e&height=220&section=header&text=Amit%20Jakhar&fontSize=80&fontAlignY=35&desc=Full%20Stack%20%7C%20Cloud%20Architect%20%7C%20DevOps&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Amit Jakhar - Full Stack | Cloud Architect | DevOps" />
 </div>
 
+<!-- Social Links Section -->
 <div align="center">
   <a href="https://github.com/jakharamit44">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://linkedin.com/in/jakharamit44">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://t.me/ajak4405">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://www.buymeacoffee.com/ajakhar085j">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
 </div>
 
 <br />
 
-<table border="0" width="100%">
+<!-- About Me & GitHub Stats Section -->
+<table border="0" width="100%" style="border-collapse: collapse;">
   <tr>
     <td width="55%" valign="top">
       <h2>⚡ About Me</h2>
@@ -34,43 +37,44 @@
       💬 <b>Ask me about:</b> React, Node.js, AWS, and Cloud Architecture<br />
       ⚡ <b>Fun fact:</b> I speak fluent JavaScript and sarcasm.
       <br /><br />
-      <img src="https://komarev.com/ghpvc/?username=jakharamit44&color=7aa2f7&style=flat-square&label=Profile+Views" />
+      <img src="https://komarev.com/ghpvc/?username=jakharamit44&color=7aa2f7&style=flat-square&label=Profile+Views" alt="Profile Views" />
     </td>
     <td width="45%" valign="top" align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jakharamit44&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" width="100%" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jakharamit44&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" width="100%" alt="GitHub Stats" />
       <br />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jakharamit44&theme=tokyonight&hide_border=true&background=0D1117" width="100%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jakharamit44&theme=tokyonight&hide_border=true&background=0D1117" width="100%" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
 
 <br />
 
+<!-- Tech Arsenal Section -->
 <h2 align="center">🛠️ Tech Arsenal</h2>
 <div align="center">
-  <table border="0">
+  <table border="0" cellspacing="10" cellpadding="0">
     <tr>
       <td align="center">
-        <b>Frontend</b><br />
-        <img src="https://skillicons.dev/icons?i=react,nextjs,vue,redux,tailwind,materialui,bootstrap,html,css,figma" />
+        <b>Frontend</b><br /><br />
+        <img src="https://skillicons.dev/icons?i=react,nextjs,vue,redux,tailwind,materialui,bootstrap,html,css,figma&perline=10" alt="Frontend Skills" />
       </td>
     </tr>
     <tr>
       <td align="center">
-        <b>Backend</b><br />
-        <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi,java,cpp,c,go" />
+        <b>Backend</b><br /><br />
+        <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi,java,cpp,c,go&perline=10" alt="Backend Skills" />
       </td>
     </tr>
     <tr>
       <td align="center">
-        <b>Database & Cloud</b><br />
-        <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase,aws,googlecloud,docker,kubernetes,nginx" />
+        <b>Database & Cloud</b><br /><br />
+        <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase,aws,googlecloud,docker,kubernetes,nginx&perline=10" alt="Database & Cloud Skills" />
       </td>
     </tr>
     <tr>
       <td align="center">
-        <b>Tools</b><br />
-        <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,linux,windows,vercel" />
+        <b>Tools</b><br /><br />
+        <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,linux,windows,vercel&perline=10" alt="Tools Skills" />
       </td>
     </tr>
   </table>
@@ -78,15 +82,17 @@
 
 <br />
 
+<!-- Coding Habits Section -->
 <h2 align="center">📊 Coding Habits</h2>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jakharamit44&bg_color=0D1117&color=7aa2f7&line=7aa2f7&point=FFFFFF&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jakharamit44&bg_color=0D1117&color=7aa2f7&line=7aa2f7&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
   <br /><br />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jakharamit44&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" width="60%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jakharamit44&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" width="60%" alt="Top Languages" />
 </div>
 
 <br />
 
+<!-- Footer Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f0c29,302b63,24243e&height=100&section=footer&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f0c29,302b63,24243e&height=100&section=footer&animation=fadeIn" width="100%" alt="Footer Wave" />
 </div>
