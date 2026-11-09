@@ -24,6 +24,31 @@ I architect and maintain full-stack web applications, high-volume relational dat
 
 ---
 
+### Currently Working On
+
+<table width="100%">
+  <tr>
+    <td width="75%" valign="top">
+      <h4>
+        <a href="https://github.com/jakharamit44/airdrop-p2p">⚡ AirDrop P2P (jakharamit44/airdrop-p2p)</a>
+      </h4>
+      <p>
+        A low-latency, peer-to-peer file sharing web application built for direct device-to-device data transfer across browsers without intermediate cloud storage bottlenecks.
+      </p>
+      <p>
+        <code>WebRTC</code> · <code>WebSockets</code> · <code>P2P Networking</code> · <code>Full-Stack Web</code>
+      </p>
+    </td>
+    <td width="25%" valign="middle" align="center">
+      <a href="https://github.com/jakharamit44/airdrop-p2p">
+        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### Tech Stack
 
 <table width="100%">
