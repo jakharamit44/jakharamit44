@@ -30,7 +30,7 @@ I architect and maintain full-stack web applications, high-volume relational dat
   <tr>
     <td width="75%" valign="top">
       <h4>
-        <a href="https://github.com/jakharamit44/airdrop-p2p">⚡ AirDrop P2P (jakharamit44/airdrop-p2p)</a>
+        <a href="https://github.com/jakharamit44/glidedrop">⚡ AirDrop P2P (jakharamit44/Glidedrop)</a>
       </h4>
       <p>
         A low-latency, peer-to-peer file sharing web application built for direct device-to-device data transfer across browsers without intermediate cloud storage bottlenecks.
